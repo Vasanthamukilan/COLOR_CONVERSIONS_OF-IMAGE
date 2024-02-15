@@ -156,7 +156,7 @@ cv2.destroyAllWindows()
 <br>
 
 ### viii) RGB and BGR to YCrCb
-```
+```python
 import cv2
 img = cv2.imread('image.jpg')
 img = cv2.resize(img,(300,200))
